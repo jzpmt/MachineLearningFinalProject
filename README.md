@@ -1,5 +1,5 @@
 # MachineLearningFinalProject
-For this project we were asked to create a handwritten digit recognmition system using Convolutional Neural Network (CNN), MNIST dataset to train, and GUI that had the title of the project along with an upload prompt that once a picture of the handwritten digit is uploaded, it will predict that number. The web GUI I used was Streamlit. All coded in python.
+For this project we were asked to create a handwritten digit recognmition system using Convolutional Neural Network (CNN), MNIST dataset to train, and GUI that had the title of the project along with an upload prompt that once a picture of the handwritten digit is uploaded, it will predict that number. The web GUI I used was Streamlit. All coded in python via VSCode.
 
 #Tools/Libraries 
 - Tensorflow / Keras
